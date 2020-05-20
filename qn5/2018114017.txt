@@ -1,0 +1,40 @@
+loadkeys (1)         - load keyboard translation tables
+loadunimap (8)       - load the kernel unicode-to-font mapping table
+lobase (1)           - LibreOffice office suite
+localc (1)           - LibreOffice office suite
+locale-gen (8)       - generates localisation files from templates
+locale.conf (5)      - Configuration file for locale settings
+locale.gen (5)       - Configuration file for locale-gen
+localectl (1)        - Control the system locale and keyboard layout settings
+localtime (5)        - Local timezone configuration file
+lockfile (1)         - conditional semaphore-file creator
+lockfile-check (1)   - command-line programs to safely lock and unlock files and mailboxes (via liblockfile).
+lockfile-create (1)  - command-line programs to safely lock and unlock files and mailboxes (via liblockfile).
+lockfile-progs (1)   - command-line programs to safely lock and unlock files and mailboxes (via liblockfile).
+lockfile-remove (1)  - command-line programs to safely lock and unlock files and mailboxes (via liblockfile).
+lockfile-touch (1)   - command-line programs to safely lock and unlock files and mailboxes (via liblockfile).
+lockward (6x)        - Rotating spinning color-cycling things
+lodraw (1)           - LibreOffice office suite
+loffice (1)          - LibreOffice office suite
+lofromtemplate (1)   - LibreOffice office suite
+log2pcap (1)         - Extract network traces from Samba log files
+logger (1)           - enter messages into the system log
+login (1)            - begin session on the system
+login.defs (5)       - shadow password suite configuration
+loginctl (1)         - Control the systemd login manager
+logind.conf (5)      - Login manager configuration files
+logind.conf.d (5)    - Login manager configuration files
+logname (1)          - print user's login name
+logrotate (5)        - rotates, compresses, and mails system logs
+logrotate (8)        - rotates, compresses, and mails system logs
+logrotate.conf (5)   - rotates, compresses, and mails system logs
+logsave (8)          - save the output of a command in a logfile
+loimpress (1)        - LibreOffice office suite
+lomath (1)           - LibreOffice office suite
+look (1)             - display lines beginning with a given string
+loop (6x)            - cellular automaton.
+lorder (1)           - list dependencies for object files
+losetup (8)          - set up and control loop devices
+loweb (1)            - LibreOffice office suite
+lowntfs-3g (8)       - Third Generation Read/Write NTFS Driver
+lowriter (1)         - LibreOffice office suite
